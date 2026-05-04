@@ -1,0 +1,38 @@
+{
+  "accuracy": 0.9667,
+  "best_params": {
+    "max_depth": 5,
+    "min_samples_split": 2,
+    "n_estimators": 50
+  },
+  "cv_scores": [
+    0.875,
+    0.958,
+    0.917,
+    1.0,
+    1.0
+  ],
+  "train_size": 90,
+  "test_size": 30,
+  "feature_importances": {
+    "task_enc": 0.2537,
+    "score_exploitabilite": 0.1325,
+    "score_clarte": 0.1277,
+    "temps_realisation_min": 0.1271,
+    "score_exactitude": 0.1232,
+    "score_pertinence": 0.0967,
+    "compl_enc": 0.0729,
+    "nb_iterations": 0.0437,
+    "deliv_enc": 0.0224
+  },
+  "confusion_matrix": [
+    [
+      4,
+      1
+    ],
+    [
+      0,
+      25
+    ]
+  ]
+}

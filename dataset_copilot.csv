@@ -1,0 +1,121 @@
+type_tache,complexite,type_livrable,copilot_utilise,temps_realisation_min,nb_iterations,score_pertinence,score_clarte,score_exactitude,score_exploitabilite,copilot_pertinent
+Documentation,Élevé,Exploratoire,0,71.1,1,4.52,4.56,4.58,4.37,1
+Analyse exploratoire,Élevé,Exploratoire,1,48.8,2,4.08,4.02,3.91,4.49,1
+Structuration rapport,Faible,Exploratoire,1,38.0,4,4.45,4.64,4.36,4.43,1
+Modélisation/DAX,Faible,Opérationnel,1,42.0,4,4.56,4.48,4.54,4.34,0
+Rédaction analytique,Faible,Opérationnel,1,24.7,3,3.99,4.22,4.25,4.03,1
+Rédaction analytique,Moyen,Exploratoire,0,55.7,2,4.26,4.45,4.5,4.39,1
+Rédaction analytique,Élevé,Management,1,52.6,1,4.02,4.3,4.53,4.09,1
+Analyse exploratoire,Élevé,Exploratoire,1,41.7,1,3.97,4.29,4.45,4.38,1
+Structuration rapport,Faible,Exploratoire,0,38.6,2,4.59,4.24,4.03,4.44,1
+Structuration rapport,Moyen,Exploratoire,0,57.6,1,4.78,4.49,4.14,4.1,1
+Rédaction analytique,Moyen,Opérationnel,0,46.5,2,4.02,4.68,4.18,4.61,1
+Analyse exploratoire,Faible,Opérationnel,0,32.9,2,4.61,4.77,4.51,4.86,1
+Structuration rapport,Faible,Exploratoire,0,39.0,2,4.27,4.72,4.5,4.28,1
+Documentation,Faible,Opérationnel,1,19.5,2,4.3,4.3,4.25,4.32,1
+Rédaction analytique,Élevé,Opérationnel,0,81.1,2,4.18,4.1,4.34,4.36,1
+Rédaction analytique,Faible,Management,0,46.0,1,4.13,4.27,4.15,4.37,1
+Documentation,Moyen,Exploratoire,1,30.8,3,4.41,4.41,4.28,4.53,1
+Modélisation/DAX,Moyen,Management,0,67.7,2,4.53,4.92,4.42,5.0,0
+Modélisation/DAX,Moyen,Management,1,60.8,4,4.5,4.11,4.27,4.41,0
+Documentation,Élevé,Opérationnel,0,67.2,1,4.49,4.81,4.23,4.34,1
+Structuration rapport,Élevé,Management,0,81.7,1,4.35,4.37,4.2,4.12,1
+Rédaction analytique,Faible,Exploratoire,1,28.5,1,4.02,4.11,4.41,4.05,1
+Documentation,Moyen,Opérationnel,1,31.7,1,4.28,4.2,4.21,4.39,1
+Documentation,Faible,Management,1,17.0,4,4.55,4.07,4.93,4.76,1
+Modélisation/DAX,Faible,Exploratoire,1,38.2,2,4.55,4.61,4.55,4.35,0
+Structuration rapport,Faible,Management,1,34.8,1,3.95,4.16,4.19,4.19,1
+Rédaction analytique,Moyen,Management,0,54.5,2,4.32,4.04,4.13,4.3,1
+Modélisation/DAX,Moyen,Management,0,75.0,1,4.85,4.44,4.84,4.94,0
+Modélisation/DAX,Faible,Opérationnel,1,38.7,2,4.12,4.38,4.33,4.96,0
+Rédaction analytique,Faible,Opérationnel,1,18.8,3,4.31,4.53,4.22,4.09,1
+Structuration rapport,Élevé,Exploratoire,1,60.9,4,4.02,4.1,4.66,4.05,1
+Rédaction analytique,Faible,Exploratoire,0,38.7,1,4.41,4.0,4.28,4.51,1
+Rédaction analytique,Faible,Exploratoire,0,36.7,1,4.15,4.25,4.53,4.44,1
+Analyse exploratoire,Moyen,Exploratoire,1,33.5,4,3.89,4.2,4.11,4.62,1
+Analyse exploratoire,Élevé,Management,0,68.2,1,4.17,3.96,4.49,4.62,1
+Structuration rapport,Faible,Management,1,28.8,2,4.16,4.14,4.5,4.08,1
+Documentation,Moyen,Exploratoire,1,27.5,4,4.45,4.35,4.27,4.52,1
+Rédaction analytique,Élevé,Management,0,81.8,1,4.12,4.44,4.66,4.52,1
+Structuration rapport,Faible,Management,1,32.2,4,4.28,4.52,4.29,4.31,1
+Modélisation/DAX,Moyen,Exploratoire,1,59.9,2,4.12,4.68,4.34,4.55,0
+Rédaction analytique,Moyen,Exploratoire,0,48.9,2,4.29,4.25,4.43,4.51,1
+Modélisation/DAX,Moyen,Opérationnel,1,69.5,4,4.21,4.23,4.64,4.68,0
+Rédaction analytique,Moyen,Opérationnel,1,31.6,4,4.07,4.71,4.32,4.48,1
+Analyse exploratoire,Moyen,Opérationnel,1,28.0,1,4.26,4.26,3.94,4.38,1
+Documentation,Faible,Management,0,37.7,2,4.33,4.5,4.35,4.47,1
+Structuration rapport,Élevé,Opérationnel,1,61.4,4,4.07,4.15,4.1,4.18,1
+Documentation,Faible,Management,0,36.2,2,4.7,4.54,4.49,4.74,1
+Modélisation/DAX,Faible,Management,0,49.3,2,4.58,4.67,4.82,4.54,0
+Modélisation/DAX,Faible,Opérationnel,1,53.3,4,4.62,4.34,4.49,4.52,0
+Rédaction analytique,Moyen,Management,0,62.0,1,4.07,4.19,4.03,4.22,1
+Analyse exploratoire,Moyen,Opérationnel,0,49.0,2,4.61,4.49,4.58,4.51,1
+Structuration rapport,Faible,Opérationnel,1,33.3,1,4.44,4.04,4.27,4.41,1
+Analyse exploratoire,Moyen,Exploratoire,1,33.6,1,3.76,4.11,4.36,4.29,1
+Analyse exploratoire,Faible,Opérationnel,1,27.2,1,4.09,4.27,4.47,4.26,1
+Modélisation/DAX,Moyen,Opérationnel,1,60.5,1,4.57,4.4,4.62,4.18,0
+Analyse exploratoire,Faible,Management,0,37.7,2,4.46,4.8,4.59,4.65,1
+Rédaction analytique,Moyen,Exploratoire,0,59.2,1,4.37,3.77,4.29,4.43,1
+Rédaction analytique,Moyen,Opérationnel,0,48.0,1,4.18,4.52,3.97,4.73,1
+Rédaction analytique,Élevé,Management,1,39.1,4,4.22,4.45,4.29,4.14,1
+Documentation,Faible,Opérationnel,1,10.7,2,4.37,3.99,4.44,4.44,1
+Modélisation/DAX,Faible,Opérationnel,1,44.0,2,4.68,4.38,4.5,4.5,0
+Documentation,Faible,Management,1,21.8,3,4.45,4.33,4.14,4.72,1
+Structuration rapport,Élevé,Management,0,93.0,2,4.47,4.12,4.18,4.38,1
+Documentation,Élevé,Management,1,39.4,2,4.32,4.24,4.61,4.46,1
+Documentation,Faible,Management,0,38.0,1,4.4,4.28,4.49,4.62,1
+Modélisation/DAX,Moyen,Exploratoire,1,58.9,2,4.36,4.8,4.59,4.49,0
+Rédaction analytique,Élevé,Management,0,72.9,2,4.38,4.49,4.31,4.21,1
+Structuration rapport,Moyen,Opérationnel,1,41.8,2,4.07,4.4,4.16,4.19,1
+Rédaction analytique,Moyen,Exploratoire,0,56.5,2,4.36,4.44,4.49,4.51,1
+Analyse exploratoire,Faible,Opérationnel,0,34.9,1,4.92,4.27,4.4,4.29,1
+Structuration rapport,Faible,Management,0,33.7,2,4.57,4.3,4.42,4.43,1
+Rédaction analytique,Élevé,Opérationnel,1,43.5,2,4.13,4.3,4.11,4.06,1
+Rédaction analytique,Élevé,Opérationnel,1,38.6,3,4.44,3.96,4.11,4.44,1
+Structuration rapport,Moyen,Exploratoire,0,62.7,2,4.32,4.54,4.34,4.1,1
+Structuration rapport,Faible,Exploratoire,0,43.5,1,3.99,4.35,4.44,4.29,1
+Structuration rapport,Faible,Management,1,25.6,4,3.95,4.08,4.05,4.23,1
+Structuration rapport,Moyen,Management,0,57.9,1,4.03,4.54,4.65,4.71,1
+Rédaction analytique,Élevé,Opérationnel,1,39.6,1,4.13,4.29,4.02,4.19,1
+Documentation,Élevé,Opérationnel,1,38.9,3,4.4,4.33,4.36,4.29,1
+Rédaction analytique,Élevé,Opérationnel,0,83.6,1,4.64,4.53,4.21,4.68,1
+Analyse exploratoire,Moyen,Management,0,46.1,2,4.57,4.28,4.79,4.21,1
+Structuration rapport,Faible,Management,1,31.4,1,4.11,4.27,4.19,3.71,1
+Documentation,Faible,Management,0,29.4,2,4.67,4.62,4.71,4.59,1
+Rédaction analytique,Élevé,Opérationnel,0,76.6,1,3.86,4.24,4.0,4.2,1
+Documentation,Moyen,Exploratoire,1,26.6,3,4.45,4.47,4.45,4.2,1
+Documentation,Faible,Management,1,14.8,3,4.55,4.15,4.58,4.54,1
+Structuration rapport,Faible,Management,1,27.2,4,3.85,4.33,4.17,4.2,1
+Structuration rapport,Moyen,Management,1,37.2,1,4.38,4.11,4.36,4.04,1
+Analyse exploratoire,Faible,Management,0,42.9,2,4.57,4.4,4.4,4.24,1
+Modélisation/DAX,Faible,Opérationnel,0,49.1,2,4.62,4.91,4.98,4.87,0
+Rédaction analytique,Moyen,Opérationnel,1,27.5,4,4.33,4.06,4.66,4.33,1
+Structuration rapport,Moyen,Exploratoire,1,42.9,4,4.6,3.87,4.08,4.13,1
+Structuration rapport,Moyen,Opérationnel,0,59.6,2,4.44,4.09,4.31,4.77,1
+Modélisation/DAX,Faible,Opérationnel,1,44.2,4,4.5,4.57,4.74,4.24,0
+Structuration rapport,Moyen,Opérationnel,0,62.5,2,4.31,4.14,4.72,4.09,1
+Modélisation/DAX,Faible,Opérationnel,1,48.1,4,4.28,4.8,4.35,4.31,0
+Modélisation/DAX,Faible,Exploratoire,0,46.9,2,4.87,4.28,4.62,4.69,0
+Modélisation/DAX,Moyen,Management,1,62.1,3,4.28,4.79,4.39,4.5,0
+Rédaction analytique,Moyen,Management,0,53.9,1,4.31,4.34,4.03,4.25,1
+Rédaction analytique,Élevé,Opérationnel,0,70.5,1,4.2,4.28,4.12,4.37,1
+Rédaction analytique,Moyen,Management,0,48.9,1,4.4,4.19,4.1,4.05,1
+Structuration rapport,Moyen,Management,1,47.5,3,4.22,4.23,4.0,4.44,1
+Documentation,Faible,Opérationnel,1,25.5,4,4.61,4.39,4.39,4.38,1
+Modélisation/DAX,Moyen,Management,1,63.4,4,4.35,4.67,4.5,4.67,0
+Analyse exploratoire,Faible,Opérationnel,1,24.0,4,4.2,4.27,4.56,4.32,1
+Documentation,Faible,Management,0,32.7,2,4.3,4.53,4.3,4.59,1
+Modélisation/DAX,Élevé,Management,0,113.8,2,4.61,4.63,4.9,4.81,0
+Structuration rapport,Moyen,Opérationnel,1,46.5,2,4.23,4.14,4.11,4.24,1
+Documentation,Élevé,Opérationnel,0,64.7,2,4.65,4.56,4.49,4.63,1
+Rédaction analytique,Moyen,Management,1,26.4,3,4.02,3.86,4.33,4.47,1
+Documentation,Élevé,Management,0,58.8,1,4.67,4.23,4.28,4.54,1
+Rédaction analytique,Moyen,Exploratoire,1,31.1,3,4.47,4.35,4.28,4.34,1
+Analyse exploratoire,Moyen,Management,0,47.0,1,4.58,4.53,4.53,4.48,1
+Structuration rapport,Moyen,Opérationnel,1,36.3,4,4.53,4.11,4.25,4.44,1
+Structuration rapport,Faible,Opérationnel,1,26.8,2,4.0,4.15,4.21,4.01,1
+Analyse exploratoire,Moyen,Management,1,26.7,2,4.0,4.32,4.74,4.61,1
+Structuration rapport,Faible,Opérationnel,0,48.7,1,4.04,4.29,4.27,4.39,1
+Rédaction analytique,Faible,Management,1,24.7,2,4.5,4.04,4.09,3.91,1
+Analyse exploratoire,Moyen,Exploratoire,1,31.0,2,4.38,4.29,4.13,4.28,1
+Modélisation/DAX,Faible,Management,1,51.0,4,4.44,4.25,4.34,4.31,0
