@@ -1,121 +1,201 @@
-type_tache,complexite,type_livrable,copilot_utilise,temps_realisation_min,nb_iterations,score_pertinence,score_clarte,score_exactitude,score_exploitabilite,copilot_pertinent
-Documentation,Élevé,Exploratoire,0,71.1,1,4.52,4.56,4.58,4.37,1
-Analyse exploratoire,Élevé,Exploratoire,1,48.8,2,4.08,4.02,3.91,4.49,1
-Structuration rapport,Faible,Exploratoire,1,38.0,4,4.45,4.64,4.36,4.43,1
-Modélisation/DAX,Faible,Opérationnel,1,42.0,4,4.56,4.48,4.54,4.34,0
-Rédaction analytique,Faible,Opérationnel,1,24.7,3,3.99,4.22,4.25,4.03,1
-Rédaction analytique,Moyen,Exploratoire,0,55.7,2,4.26,4.45,4.5,4.39,1
-Rédaction analytique,Élevé,Management,1,52.6,1,4.02,4.3,4.53,4.09,1
-Analyse exploratoire,Élevé,Exploratoire,1,41.7,1,3.97,4.29,4.45,4.38,1
-Structuration rapport,Faible,Exploratoire,0,38.6,2,4.59,4.24,4.03,4.44,1
-Structuration rapport,Moyen,Exploratoire,0,57.6,1,4.78,4.49,4.14,4.1,1
-Rédaction analytique,Moyen,Opérationnel,0,46.5,2,4.02,4.68,4.18,4.61,1
-Analyse exploratoire,Faible,Opérationnel,0,32.9,2,4.61,4.77,4.51,4.86,1
-Structuration rapport,Faible,Exploratoire,0,39.0,2,4.27,4.72,4.5,4.28,1
-Documentation,Faible,Opérationnel,1,19.5,2,4.3,4.3,4.25,4.32,1
-Rédaction analytique,Élevé,Opérationnel,0,81.1,2,4.18,4.1,4.34,4.36,1
-Rédaction analytique,Faible,Management,0,46.0,1,4.13,4.27,4.15,4.37,1
-Documentation,Moyen,Exploratoire,1,30.8,3,4.41,4.41,4.28,4.53,1
-Modélisation/DAX,Moyen,Management,0,67.7,2,4.53,4.92,4.42,5.0,0
-Modélisation/DAX,Moyen,Management,1,60.8,4,4.5,4.11,4.27,4.41,0
-Documentation,Élevé,Opérationnel,0,67.2,1,4.49,4.81,4.23,4.34,1
-Structuration rapport,Élevé,Management,0,81.7,1,4.35,4.37,4.2,4.12,1
-Rédaction analytique,Faible,Exploratoire,1,28.5,1,4.02,4.11,4.41,4.05,1
-Documentation,Moyen,Opérationnel,1,31.7,1,4.28,4.2,4.21,4.39,1
-Documentation,Faible,Management,1,17.0,4,4.55,4.07,4.93,4.76,1
-Modélisation/DAX,Faible,Exploratoire,1,38.2,2,4.55,4.61,4.55,4.35,0
-Structuration rapport,Faible,Management,1,34.8,1,3.95,4.16,4.19,4.19,1
-Rédaction analytique,Moyen,Management,0,54.5,2,4.32,4.04,4.13,4.3,1
-Modélisation/DAX,Moyen,Management,0,75.0,1,4.85,4.44,4.84,4.94,0
-Modélisation/DAX,Faible,Opérationnel,1,38.7,2,4.12,4.38,4.33,4.96,0
-Rédaction analytique,Faible,Opérationnel,1,18.8,3,4.31,4.53,4.22,4.09,1
-Structuration rapport,Élevé,Exploratoire,1,60.9,4,4.02,4.1,4.66,4.05,1
-Rédaction analytique,Faible,Exploratoire,0,38.7,1,4.41,4.0,4.28,4.51,1
-Rédaction analytique,Faible,Exploratoire,0,36.7,1,4.15,4.25,4.53,4.44,1
-Analyse exploratoire,Moyen,Exploratoire,1,33.5,4,3.89,4.2,4.11,4.62,1
-Analyse exploratoire,Élevé,Management,0,68.2,1,4.17,3.96,4.49,4.62,1
-Structuration rapport,Faible,Management,1,28.8,2,4.16,4.14,4.5,4.08,1
-Documentation,Moyen,Exploratoire,1,27.5,4,4.45,4.35,4.27,4.52,1
-Rédaction analytique,Élevé,Management,0,81.8,1,4.12,4.44,4.66,4.52,1
-Structuration rapport,Faible,Management,1,32.2,4,4.28,4.52,4.29,4.31,1
-Modélisation/DAX,Moyen,Exploratoire,1,59.9,2,4.12,4.68,4.34,4.55,0
-Rédaction analytique,Moyen,Exploratoire,0,48.9,2,4.29,4.25,4.43,4.51,1
-Modélisation/DAX,Moyen,Opérationnel,1,69.5,4,4.21,4.23,4.64,4.68,0
-Rédaction analytique,Moyen,Opérationnel,1,31.6,4,4.07,4.71,4.32,4.48,1
-Analyse exploratoire,Moyen,Opérationnel,1,28.0,1,4.26,4.26,3.94,4.38,1
-Documentation,Faible,Management,0,37.7,2,4.33,4.5,4.35,4.47,1
-Structuration rapport,Élevé,Opérationnel,1,61.4,4,4.07,4.15,4.1,4.18,1
-Documentation,Faible,Management,0,36.2,2,4.7,4.54,4.49,4.74,1
-Modélisation/DAX,Faible,Management,0,49.3,2,4.58,4.67,4.82,4.54,0
-Modélisation/DAX,Faible,Opérationnel,1,53.3,4,4.62,4.34,4.49,4.52,0
-Rédaction analytique,Moyen,Management,0,62.0,1,4.07,4.19,4.03,4.22,1
-Analyse exploratoire,Moyen,Opérationnel,0,49.0,2,4.61,4.49,4.58,4.51,1
-Structuration rapport,Faible,Opérationnel,1,33.3,1,4.44,4.04,4.27,4.41,1
-Analyse exploratoire,Moyen,Exploratoire,1,33.6,1,3.76,4.11,4.36,4.29,1
-Analyse exploratoire,Faible,Opérationnel,1,27.2,1,4.09,4.27,4.47,4.26,1
-Modélisation/DAX,Moyen,Opérationnel,1,60.5,1,4.57,4.4,4.62,4.18,0
-Analyse exploratoire,Faible,Management,0,37.7,2,4.46,4.8,4.59,4.65,1
-Rédaction analytique,Moyen,Exploratoire,0,59.2,1,4.37,3.77,4.29,4.43,1
-Rédaction analytique,Moyen,Opérationnel,0,48.0,1,4.18,4.52,3.97,4.73,1
-Rédaction analytique,Élevé,Management,1,39.1,4,4.22,4.45,4.29,4.14,1
-Documentation,Faible,Opérationnel,1,10.7,2,4.37,3.99,4.44,4.44,1
-Modélisation/DAX,Faible,Opérationnel,1,44.0,2,4.68,4.38,4.5,4.5,0
-Documentation,Faible,Management,1,21.8,3,4.45,4.33,4.14,4.72,1
-Structuration rapport,Élevé,Management,0,93.0,2,4.47,4.12,4.18,4.38,1
-Documentation,Élevé,Management,1,39.4,2,4.32,4.24,4.61,4.46,1
-Documentation,Faible,Management,0,38.0,1,4.4,4.28,4.49,4.62,1
-Modélisation/DAX,Moyen,Exploratoire,1,58.9,2,4.36,4.8,4.59,4.49,0
-Rédaction analytique,Élevé,Management,0,72.9,2,4.38,4.49,4.31,4.21,1
-Structuration rapport,Moyen,Opérationnel,1,41.8,2,4.07,4.4,4.16,4.19,1
-Rédaction analytique,Moyen,Exploratoire,0,56.5,2,4.36,4.44,4.49,4.51,1
-Analyse exploratoire,Faible,Opérationnel,0,34.9,1,4.92,4.27,4.4,4.29,1
-Structuration rapport,Faible,Management,0,33.7,2,4.57,4.3,4.42,4.43,1
-Rédaction analytique,Élevé,Opérationnel,1,43.5,2,4.13,4.3,4.11,4.06,1
-Rédaction analytique,Élevé,Opérationnel,1,38.6,3,4.44,3.96,4.11,4.44,1
-Structuration rapport,Moyen,Exploratoire,0,62.7,2,4.32,4.54,4.34,4.1,1
-Structuration rapport,Faible,Exploratoire,0,43.5,1,3.99,4.35,4.44,4.29,1
-Structuration rapport,Faible,Management,1,25.6,4,3.95,4.08,4.05,4.23,1
-Structuration rapport,Moyen,Management,0,57.9,1,4.03,4.54,4.65,4.71,1
-Rédaction analytique,Élevé,Opérationnel,1,39.6,1,4.13,4.29,4.02,4.19,1
-Documentation,Élevé,Opérationnel,1,38.9,3,4.4,4.33,4.36,4.29,1
-Rédaction analytique,Élevé,Opérationnel,0,83.6,1,4.64,4.53,4.21,4.68,1
-Analyse exploratoire,Moyen,Management,0,46.1,2,4.57,4.28,4.79,4.21,1
-Structuration rapport,Faible,Management,1,31.4,1,4.11,4.27,4.19,3.71,1
-Documentation,Faible,Management,0,29.4,2,4.67,4.62,4.71,4.59,1
-Rédaction analytique,Élevé,Opérationnel,0,76.6,1,3.86,4.24,4.0,4.2,1
-Documentation,Moyen,Exploratoire,1,26.6,3,4.45,4.47,4.45,4.2,1
-Documentation,Faible,Management,1,14.8,3,4.55,4.15,4.58,4.54,1
-Structuration rapport,Faible,Management,1,27.2,4,3.85,4.33,4.17,4.2,1
-Structuration rapport,Moyen,Management,1,37.2,1,4.38,4.11,4.36,4.04,1
-Analyse exploratoire,Faible,Management,0,42.9,2,4.57,4.4,4.4,4.24,1
-Modélisation/DAX,Faible,Opérationnel,0,49.1,2,4.62,4.91,4.98,4.87,0
-Rédaction analytique,Moyen,Opérationnel,1,27.5,4,4.33,4.06,4.66,4.33,1
-Structuration rapport,Moyen,Exploratoire,1,42.9,4,4.6,3.87,4.08,4.13,1
-Structuration rapport,Moyen,Opérationnel,0,59.6,2,4.44,4.09,4.31,4.77,1
-Modélisation/DAX,Faible,Opérationnel,1,44.2,4,4.5,4.57,4.74,4.24,0
-Structuration rapport,Moyen,Opérationnel,0,62.5,2,4.31,4.14,4.72,4.09,1
-Modélisation/DAX,Faible,Opérationnel,1,48.1,4,4.28,4.8,4.35,4.31,0
-Modélisation/DAX,Faible,Exploratoire,0,46.9,2,4.87,4.28,4.62,4.69,0
-Modélisation/DAX,Moyen,Management,1,62.1,3,4.28,4.79,4.39,4.5,0
-Rédaction analytique,Moyen,Management,0,53.9,1,4.31,4.34,4.03,4.25,1
-Rédaction analytique,Élevé,Opérationnel,0,70.5,1,4.2,4.28,4.12,4.37,1
-Rédaction analytique,Moyen,Management,0,48.9,1,4.4,4.19,4.1,4.05,1
-Structuration rapport,Moyen,Management,1,47.5,3,4.22,4.23,4.0,4.44,1
-Documentation,Faible,Opérationnel,1,25.5,4,4.61,4.39,4.39,4.38,1
-Modélisation/DAX,Moyen,Management,1,63.4,4,4.35,4.67,4.5,4.67,0
-Analyse exploratoire,Faible,Opérationnel,1,24.0,4,4.2,4.27,4.56,4.32,1
-Documentation,Faible,Management,0,32.7,2,4.3,4.53,4.3,4.59,1
-Modélisation/DAX,Élevé,Management,0,113.8,2,4.61,4.63,4.9,4.81,0
-Structuration rapport,Moyen,Opérationnel,1,46.5,2,4.23,4.14,4.11,4.24,1
-Documentation,Élevé,Opérationnel,0,64.7,2,4.65,4.56,4.49,4.63,1
-Rédaction analytique,Moyen,Management,1,26.4,3,4.02,3.86,4.33,4.47,1
-Documentation,Élevé,Management,0,58.8,1,4.67,4.23,4.28,4.54,1
-Rédaction analytique,Moyen,Exploratoire,1,31.1,3,4.47,4.35,4.28,4.34,1
-Analyse exploratoire,Moyen,Management,0,47.0,1,4.58,4.53,4.53,4.48,1
-Structuration rapport,Moyen,Opérationnel,1,36.3,4,4.53,4.11,4.25,4.44,1
-Structuration rapport,Faible,Opérationnel,1,26.8,2,4.0,4.15,4.21,4.01,1
-Analyse exploratoire,Moyen,Management,1,26.7,2,4.0,4.32,4.74,4.61,1
-Structuration rapport,Faible,Opérationnel,0,48.7,1,4.04,4.29,4.27,4.39,1
-Rédaction analytique,Faible,Management,1,24.7,2,4.5,4.04,4.09,3.91,1
-Analyse exploratoire,Moyen,Exploratoire,1,31.0,2,4.38,4.29,4.13,4.28,1
-Modélisation/DAX,Faible,Management,1,51.0,4,4.44,4.25,4.34,4.31,0
+type_tache,complexite,type_livrable,temps_realisation_min,nb_iterations,score_pertinence,score_clarte,score_exactitude,score_exploitabilite,copilot_utilise
+Créer des rapports automatiquement,Moyen,Management,30.0,3,3.0,4.0,3.0,2.0,1
+Analyser les données rapidement,Faible,Management,10.0,1,3.0,4.0,4.0,3.0,0
+Créer des rapports automatiquement,Moyen,Opérationnel,20.0,2,4.0,4.0,4.0,4.0,1
+Créer des rapports automatiquement,Moyen,Management,30.0,4,2.0,3.0,4.0,3.0,1
+Générer du DAX,Élevé,Opérationnel,15.0,1,5.0,2.0,2.0,4.0,1
+Poser des questions en langage naturel,Faible,Management,25.0,2,4.0,5.0,4.0,3.0,1
+Analyser les données rapidement,Moyen,Management,19.9,2,3.0,3.0,3.0,3.0,1
+Analyser les données rapidement,Moyen,Opérationnel,24.3,3,3.0,4.0,3.0,2.0,1
+Générer du DAX,Faible,Management,25.8,2,4.0,5.0,4.0,3.0,1
+Créer des rapports automatiquement,Élevé,Management,30.4,3,3.0,4.0,3.0,2.0,1
+Générer du DAX,Moyen,Opérationnel,12.2,1,5.0,2.0,2.0,4.0,1
+Analyser les données rapidement,Élevé,Opérationnel,26.8,2,4.0,5.0,4.0,3.0,1
+Analyser les données rapidement,Faible,Management,16.5,2,4.0,4.0,4.0,4.0,1
+Poser des questions en langage naturel,Faible,Management,26.5,2,3.0,3.0,3.0,3.0,1
+Créer des rapports automatiquement,Élevé,Opérationnel,10.5,1,3.0,4.0,4.0,3.0,0
+Générer du DAX,Moyen,Opérationnel,26.6,4,2.0,3.0,4.0,3.0,1
+Créer des rapports automatiquement,Faible,Management,35.2,2,3.0,3.0,3.0,3.0,1
+Créer des rapports automatiquement,Élevé,Opérationnel,8.6,1,3.0,4.0,4.0,3.0,0
+Analyser les données rapidement,Élevé,Management,16.4,2,4.0,4.0,4.0,4.0,1
+Analyser les données rapidement,Moyen,Management,15.5,2,4.0,4.0,4.0,4.0,1
+Créer des rapports automatiquement,Élevé,Management,41.1,2,3.0,3.0,3.0,3.0,1
+Créer des rapports automatiquement,Moyen,Opérationnel,16.0,1,5.0,2.0,2.0,4.0,1
+Créer des rapports automatiquement,Élevé,Management,11.7,1,5.0,2.0,2.0,4.0,1
+Poser des questions en langage naturel,Faible,Management,31.4,4,2.0,3.0,4.0,3.0,1
+Générer du DAX,Faible,Management,15.4,1,5.0,2.0,2.0,4.0,1
+Poser des questions en langage naturel,Faible,Management,26.9,3,3.0,4.0,3.0,2.0,1
+Générer du DAX,Moyen,Management,25.8,2,3.0,3.0,3.0,3.0,1
+Analyser les données rapidement,Moyen,Management,28.5,4,2.0,3.0,4.0,3.0,1
+Créer des rapports automatiquement,Élevé,Opérationnel,8.8,1,3.0,4.0,4.0,3.0,0
+Analyser les données rapidement,Élevé,Management,10.8,1,5.0,2.0,2.0,4.0,1
+Générer du DAX,Moyen,Management,10.1,1,3.0,4.0,4.0,3.0,0
+Créer des rapports automatiquement,Moyen,Management,29.3,4,2.0,3.0,4.0,3.0,1
+Créer des rapports automatiquement,Faible,Opérationnel,30.5,3,3.0,4.0,3.0,2.0,1
+Créer des rapports automatiquement,Moyen,Opérationnel,7.2,1,3.0,4.0,4.0,3.0,0
+Poser des questions en langage naturel,Élevé,Opérationnel,11.7,1,5.0,2.0,2.0,4.0,1
+Analyser les données rapidement,Élevé,Management,14.1,2,4.0,4.0,4.0,4.0,1
+Générer du DAX,Moyen,Management,12.6,1,5.0,2.0,2.0,4.0,1
+Poser des questions en langage naturel,Élevé,Opérationnel,24.3,3,3.0,4.0,3.0,2.0,1
+Poser des questions en langage naturel,Élevé,Opérationnel,14.5,2,4.0,4.0,4.0,4.0,1
+Analyser les données rapidement,Faible,Opérationnel,20.8,2,4.0,4.0,4.0,4.0,1
+Créer des rapports automatiquement,Faible,Opérationnel,23.9,2,4.0,5.0,4.0,3.0,1
+Poser des questions en langage naturel,Faible,Management,24.5,2,4.0,5.0,4.0,3.0,1
+Créer des rapports automatiquement,Moyen,Management,18.1,2,3.0,3.0,3.0,3.0,1
+Poser des questions en langage naturel,Faible,Management,27.9,3,3.0,4.0,3.0,2.0,1
+Poser des questions en langage naturel,Élevé,Management,9.2,1,3.0,4.0,4.0,3.0,0
+Poser des questions en langage naturel,Moyen,Opérationnel,15.2,1,5.0,2.0,2.0,4.0,1
+Créer des rapports automatiquement,Élevé,Management,12.5,1,5.0,2.0,2.0,4.0,1
+Générer du DAX,Élevé,Opérationnel,9.5,1,3.0,4.0,4.0,3.0,0
+Poser des questions en langage naturel,Moyen,Management,25.1,4,2.0,3.0,4.0,3.0,1
+Analyser les données rapidement,Élevé,Management,22.0,2,4.0,5.0,4.0,3.0,1
+Générer du DAX,Moyen,Management,19.9,2,4.0,5.0,4.0,3.0,1
+Analyser les données rapidement,Élevé,Management,21.8,2,4.0,5.0,4.0,3.0,1
+Générer du DAX,Moyen,Management,21.4,2,4.0,5.0,4.0,3.0,1
+Analyser les données rapidement,Élevé,Management,13.6,1,5.0,2.0,2.0,4.0,1
+Générer du DAX,Élevé,Opérationnel,20.0,2,4.0,4.0,4.0,4.0,1
+Créer des rapports automatiquement,Faible,Opérationnel,25.7,2,4.0,5.0,4.0,3.0,1
+Poser des questions en langage naturel,Élevé,Management,16.7,2,4.0,4.0,4.0,4.0,1
+Poser des questions en langage naturel,Élevé,Management,27.3,3,3.0,4.0,3.0,2.0,1
+Générer du DAX,Élevé,Opérationnel,7.2,1,3.0,4.0,4.0,3.0,0
+Poser des questions en langage naturel,Élevé,Management,23.1,4,2.0,3.0,4.0,3.0,1
+Créer des rapports automatiquement,Élevé,Opérationnel,18.1,2,4.0,4.0,4.0,4.0,1
+Créer des rapports automatiquement,Élevé,Management,29.6,3,3.0,4.0,3.0,2.0,1
+Analyser les données rapidement,Moyen,Opérationnel,9.3,1,3.0,4.0,4.0,3.0,0
+Créer des rapports automatiquement,Élevé,Opérationnel,8.1,1,3.0,4.0,4.0,3.0,0
+Créer des rapports automatiquement,Moyen,Management,7.2,1,3.0,4.0,4.0,3.0,0
+Poser des questions en langage naturel,Faible,Management,26.1,2,3.0,3.0,3.0,3.0,1
+Poser des questions en langage naturel,Faible,Opérationnel,22.1,2,4.0,5.0,4.0,3.0,1
+Poser des questions en langage naturel,Élevé,Management,17.6,2,3.0,3.0,3.0,3.0,1
+Générer du DAX,Moyen,Management,16.9,2,4.0,4.0,4.0,4.0,1
+Analyser les données rapidement,Faible,Opérationnel,9.5,1,3.0,4.0,4.0,3.0,0
+Générer du DAX,Moyen,Opérationnel,19.2,2,4.0,4.0,4.0,4.0,1
+Poser des questions en langage naturel,Moyen,Management,16.0,2,4.0,4.0,4.0,4.0,1
+Analyser les données rapidement,Moyen,Management,23.4,2,4.0,5.0,4.0,3.0,1
+Générer du DAX,Moyen,Opérationnel,22.2,2,4.0,5.0,4.0,3.0,1
+Créer des rapports automatiquement,Élevé,Opérationnel,34.3,2,3.0,3.0,3.0,3.0,1
+Analyser les données rapidement,Moyen,Opérationnel,26.9,3,3.0,4.0,3.0,2.0,1
+Générer du DAX,Faible,Opérationnel,19.7,2,4.0,5.0,4.0,3.0,1
+Créer des rapports automatiquement,Faible,Management,41.4,2,3.0,3.0,3.0,3.0,1
+Créer des rapports automatiquement,Élevé,Opérationnel,11.0,2,3.0,3.0,3.0,3.0,1
+Poser des questions en langage naturel,Faible,Management,16.9,2,4.0,4.0,4.0,4.0,1
+Nettoyer les données,Élevé,Opérationnel,53.0,4,3.4,3.8,3.4,3.2,1
+Nettoyer les données,Faible,Exploratoire,30.0,2,3.7,3.6,3.7,3.3,1
+Nettoyer les données,Faible,Opérationnel,24.0,2,3.7,3.7,3.4,4.0,1
+Nettoyer les données,Faible,Exploratoire,33.0,2,3.7,3.7,3.7,3.8,1
+Nettoyer les données,Moyen,Opérationnel,42.0,3,4.1,4.2,4.0,3.9,1
+Nettoyer les données,Moyen,Management,35.0,3,3.7,3.7,3.7,3.9,1
+Nettoyer les données,Moyen,Management,40.0,3,4.0,3.6,4.1,4.0,1
+Nettoyer les données,Faible,Opérationnel,34.0,2,3.4,3.2,3.2,3.4,1
+Nettoyer les données,Élevé,Opérationnel,49.0,4,4.1,4.3,3.9,4.0,1
+Nettoyer les données,Élevé,Opérationnel,47.0,4,3.7,3.6,3.9,3.5,1
+Nettoyer les données,Moyen,Exploratoire,39.0,3,3.2,3.4,3.1,3.3,0
+Nettoyer les données,Faible,Exploratoire,40.0,2,3.5,3.1,3.5,3.6,0
+Nettoyer les données,Faible,Exploratoire,36.0,2,3.4,3.3,3.5,3.6,0
+Nettoyer les données,Moyen,Management,48.0,3,3.4,3.2,3.3,3.5,0
+Nettoyer les données,Élevé,Management,60.0,4,3.1,3.7,2.9,3.3,0
+Nettoyer les données,Élevé,Exploratoire,66.0,3,3.2,3.5,3.2,2.9,0
+Nettoyer les données,Faible,Opérationnel,40.0,3,3.4,3.5,3.4,3.2,0
+Nettoyer les données,Moyen,Exploratoire,55.0,3,3.7,3.5,4.0,3.4,0
+Nettoyer les données,Moyen,Management,45.0,3,3.4,3.6,3.7,3.6,0
+Nettoyer les données,Élevé,Management,57.0,4,3.2,3.3,3.0,3.5,0
+Améliorer le design,Moyen,Opérationnel,28.0,2,4.1,3.8,3.9,4.2,1
+Améliorer le design,Moyen,Opérationnel,19.0,2,4.3,4.3,4.2,4.1,1
+Améliorer le design,Élevé,Exploratoire,30.0,3,4.3,4.7,4.4,4.3,1
+Améliorer le design,Faible,Opérationnel,16.0,1,3.1,2.9,3.1,3.0,1
+Améliorer le design,Élevé,Exploratoire,33.0,3,3.9,3.7,3.7,3.7,1
+Améliorer le design,Moyen,Management,27.0,2,4.4,4.5,4.9,4.4,1
+Améliorer le design,Faible,Opérationnel,19.0,1,4.4,4.5,4.0,4.4,1
+Améliorer le design,Moyen,Exploratoire,26.0,2,4.1,4.1,4.1,4.0,1
+Améliorer le design,Élevé,Opérationnel,28.0,3,4.2,4.2,4.3,4.6,1
+Améliorer le design,Moyen,Exploratoire,27.0,2,4.3,4.5,4.1,4.6,1
+Améliorer le design,Faible,Management,30.0,1,3.9,4.7,4.0,4.1,0
+Améliorer le design,Moyen,Management,33.0,2,3.5,3.5,3.4,3.5,0
+Améliorer le design,Faible,Management,19.0,1,3.6,3.6,3.4,3.5,0
+Améliorer le design,Faible,Opérationnel,34.0,1,3.6,3.3,3.4,3.7,0
+Améliorer le design,Faible,Management,17.0,1,3.5,3.7,3.3,3.5,0
+Améliorer le design,Faible,Management,24.0,1,3.6,3.5,3.7,3.3,0
+Améliorer le design,Faible,Opérationnel,29.0,1,3.3,3.7,3.2,3.0,0
+Améliorer le design,Faible,Management,30.0,1,3.4,3.4,2.8,3.2,0
+Améliorer le design,Faible,Management,18.0,1,4.2,4.5,4.2,4.1,0
+Améliorer le design,Moyen,Exploratoire,40.0,2,3.4,3.5,3.4,3.3,0
+Résumer les insights,Faible,Exploratoire,12.0,1,4.0,4.0,4.1,4.1,1
+Résumer les insights,Élevé,Opérationnel,18.0,2,4.2,4.1,4.1,4.4,1
+Résumer les insights,Moyen,Opérationnel,15.0,1,4.3,4.2,4.3,4.4,1
+Résumer les insights,Faible,Opérationnel,16.0,1,4.1,4.2,4.2,3.8,1
+Résumer les insights,Élevé,Management,12.0,2,4.6,4.8,4.5,4.3,1
+Résumer les insights,Faible,Management,5.0,1,4.1,4.0,4.0,4.3,1
+Résumer les insights,Moyen,Exploratoire,14.0,1,4.1,4.5,3.9,3.9,1
+Résumer les insights,Élevé,Opérationnel,19.0,2,4.1,4.1,3.7,4.5,1
+Résumer les insights,Élevé,Opérationnel,15.0,2,4.4,4.3,4.2,4.4,1
+Résumer les insights,Élevé,Management,16.0,2,4.5,4.7,4.7,4.4,1
+Résumer les insights,Élevé,Exploratoire,28.0,2,4.0,4.3,4.2,4.0,0
+Résumer les insights,Élevé,Management,30.0,2,3.7,3.7,4.0,3.9,0
+Résumer les insights,Faible,Management,17.0,1,3.9,3.7,4.2,3.8,0
+Résumer les insights,Faible,Opérationnel,21.0,1,3.9,3.7,3.9,4.0,0
+Résumer les insights,Faible,Opérationnel,17.0,1,4.3,4.7,4.3,4.5,0
+Résumer les insights,Faible,Management,19.0,1,4.2,3.8,3.8,4.3,0
+Résumer les insights,Faible,Opérationnel,19.0,1,4.1,4.1,3.9,4.1,0
+Résumer les insights,Faible,Management,21.0,1,4.0,4.0,4.1,4.1,0
+Résumer les insights,Moyen,Opérationnel,17.0,1,3.9,3.9,3.8,4.0,0
+Résumer les insights,Moyen,Opérationnel,18.0,1,4.2,4.5,4.0,4.1,0
+Créer des rapports automatiquement,Moyen,Management,52.0,2,4.1,4.1,4.5,4.5,0
+Créer des rapports automatiquement,Moyen,Exploratoire,39.0,2,4.1,4.3,4.0,4.0,0
+Créer des rapports automatiquement,Moyen,Management,53.0,2,3.4,3.4,3.5,3.7,0
+Créer des rapports automatiquement,Faible,Exploratoire,44.0,1,3.2,3.2,3.3,3.2,0
+Créer des rapports automatiquement,Faible,Management,41.0,1,3.7,3.7,3.5,3.8,0
+Créer des rapports automatiquement,Faible,Exploratoire,36.0,1,3.7,3.8,3.8,3.6,0
+Créer des rapports automatiquement,Moyen,Management,44.0,2,3.5,3.3,3.9,3.5,0
+Créer des rapports automatiquement,Faible,Management,38.0,1,4.0,3.9,3.9,4.1,0
+Créer des rapports automatiquement,Élevé,Exploratoire,56.0,2,3.2,3.5,3.5,3.2,0
+Créer des rapports automatiquement,Moyen,Exploratoire,49.0,2,3.7,3.9,3.5,3.7,0
+Créer des rapports automatiquement,Moyen,Management,36.0,2,3.5,3.2,3.4,3.3,0
+Créer des rapports automatiquement,Faible,Opérationnel,34.0,1,4.1,3.8,4.6,4.0,0
+Créer des rapports automatiquement,Moyen,Management,55.0,2,3.1,3.3,3.2,3.0,0
+Créer des rapports automatiquement,Moyen,Exploratoire,38.0,2,3.5,3.4,3.4,3.3,0
+Créer des rapports automatiquement,Élevé,Exploratoire,61.0,3,4.2,4.2,4.3,4.4,0
+Analyser les données rapidement,Élevé,Management,56.0,3,3.6,3.4,3.7,3.1,0
+Analyser les données rapidement,Faible,Exploratoire,36.0,1,3.8,3.6,3.8,3.9,0
+Analyser les données rapidement,Élevé,Opérationnel,48.0,2,4.4,4.8,4.5,4.2,0
+Analyser les données rapidement,Faible,Exploratoire,37.0,1,3.6,4.1,3.2,3.4,0
+Analyser les données rapidement,Faible,Opérationnel,33.0,1,3.8,3.8,4.0,3.9,0
+Analyser les données rapidement,Élevé,Opérationnel,55.0,3,3.7,3.8,3.8,3.4,0
+Analyser les données rapidement,Moyen,Opérationnel,38.0,2,3.7,4.0,3.6,3.3,0
+Analyser les données rapidement,Moyen,Opérationnel,40.0,2,3.9,3.9,4.1,3.5,0
+Analyser les données rapidement,Élevé,Exploratoire,44.0,3,3.9,3.8,4.0,4.4,0
+Analyser les données rapidement,Élevé,Exploratoire,49.0,3,3.5,3.3,3.8,3.6,0
+Analyser les données rapidement,Élevé,Management,57.0,3,3.7,3.5,3.6,3.8,0
+Analyser les données rapidement,Élevé,Opérationnel,56.0,3,3.9,4.3,3.7,3.7,0
+Analyser les données rapidement,Élevé,Management,52.0,3,3.5,3.0,3.5,4.0,0
+Analyser les données rapidement,Faible,Opérationnel,32.0,1,3.9,3.9,3.7,4.0,0
+Analyser les données rapidement,Élevé,Management,48.0,3,3.9,3.8,3.7,3.7,0
+Poser des questions en langage naturel,Élevé,Exploratoire,36.0,2,4.3,4.2,4.5,3.8,0
+Poser des questions en langage naturel,Élevé,Management,32.0,2,3.9,4.2,3.8,3.6,0
+Poser des questions en langage naturel,Élevé,Management,38.0,2,4.2,4.2,4.4,3.8,0
+Poser des questions en langage naturel,Moyen,Management,28.0,1,4.8,4.8,4.8,4.8,0
+Poser des questions en langage naturel,Élevé,Exploratoire,36.0,1,3.6,3.9,3.7,3.8,0
+Poser des questions en langage naturel,Faible,Management,25.0,1,3.5,4.1,3.8,3.5,0
+Poser des questions en langage naturel,Faible,Opérationnel,24.0,1,4.2,4.1,4.5,4.2,0
+Poser des questions en langage naturel,Élevé,Management,37.0,2,3.5,3.6,3.5,3.2,0
+Poser des questions en langage naturel,Moyen,Opérationnel,27.0,1,3.6,3.7,3.6,3.5,0
+Poser des questions en langage naturel,Moyen,Management,28.0,1,3.7,3.8,3.8,3.6,0
+Poser des questions en langage naturel,Élevé,Management,30.0,2,3.6,3.4,3.9,3.2,0
+Poser des questions en langage naturel,Faible,Opérationnel,30.0,1,3.5,3.4,3.7,3.5,0
+Poser des questions en langage naturel,Faible,Management,34.0,1,3.8,3.7,3.5,3.8,0
+Poser des questions en langage naturel,Élevé,Opérationnel,39.0,2,4.1,3.8,4.3,4.2,0
+Poser des questions en langage naturel,Élevé,Opérationnel,47.0,2,3.7,3.8,3.7,3.9,0
+Générer du DAX,Moyen,Management,50.0,4,3.6,3.6,3.8,3.6,0
+Générer du DAX,Élevé,Exploratoire,80.0,5,3.8,3.8,3.8,3.6,0
+Générer du DAX,Moyen,Exploratoire,63.0,4,3.6,3.5,3.3,3.8,0
+Générer du DAX,Moyen,Management,59.0,4,3.4,3.8,3.5,3.3,0
+Générer du DAX,Faible,Exploratoire,51.0,3,3.4,3.4,3.4,3.5,0
+Générer du DAX,Élevé,Management,84.0,5,3.9,4.2,4.2,4.1,0
+Générer du DAX,Faible,Opérationnel,46.0,3,3.2,3.7,3.1,3.1,0
+Générer du DAX,Élevé,Opérationnel,77.0,5,4.0,3.9,4.3,3.5,0
+Générer du DAX,Élevé,Opérationnel,71.0,5,3.3,3.8,3.3,3.5,0
+Générer du DAX,Moyen,Exploratoire,67.0,4,3.7,4.0,3.9,3.9,0
+Générer du DAX,Faible,Opérationnel,41.0,3,3.8,3.8,4.0,3.7,0
+Générer du DAX,Faible,Management,59.0,3,3.5,3.8,3.8,3.4,0
+Générer du DAX,Moyen,Opérationnel,58.0,4,3.3,3.1,2.9,3.1,0
+Générer du DAX,Élevé,Management,74.0,5,3.7,3.7,3.7,3.9,0
+Générer du DAX,Moyen,Opérationnel,59.0,4,3.5,3.6,3.5,3.4,0
